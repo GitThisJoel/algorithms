@@ -1,6 +1,7 @@
 # does the string T contain S
 
 # naive solution
+# O(len(T) * len(S))
 def naive_contains(S, T):
     for i in range(len(T) - len(S)+1):
         ok = True
