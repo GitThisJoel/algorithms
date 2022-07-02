@@ -1,3 +1,5 @@
+# xys and p1 values is found by
+# https://www.alpertron.com.ar/QUAD.HTM
 xys = [
     (0, -1),
     (0, 1),
