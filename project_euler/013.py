@@ -1,5 +1,5 @@
 import json
-f = open('pe13Nbr.txt', 'r')
+f = open('data/pe13Nbr.txt', 'r')
 g = f.read().split("\n")[:-1]
 sum = 0
 
